@@ -1,0 +1,37 @@
+body {
+    background-color: #292928;
+    color: white;
+    margin-bottom: 3px;
+    margin-right: 10px
+}
+
+p {
+    padding:3px;
+    text-align:center;
+    padding-right: 10px;
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif
+}
+
+a:link, a:visited {
+    font-size: 16px;
+    color:cornflowerblue
+    
+}
+
+img {
+    height: 9vw;
+    width: 6vw;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+ul {
+    color:antiquewhite
+}
+
+ol {
+    color:beige
+}
